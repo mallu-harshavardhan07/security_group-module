@@ -12,5 +12,5 @@ variable "sg_name"  {
   
 }
 variable "vpc_id" {
-  type= stirng
+  type= string
 }
